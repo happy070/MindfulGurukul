@@ -1,0 +1,8 @@
+com\assignment\mgurukul\MgurukulApplication.class
+com\assignment\mgurukul\Registration\Register.class
+com\assignment\mgurukul\repository\newUserRepository.class
+com\assignment\mgurukul\services\userService.class
+com\assignment\mgurukul\repository\userRepository.class
+com\assignment\mgurukul\MyUsers\newUsers.class
+com\assignment\mgurukul\MyControllers\registerController.class
+com\assignment\mgurukul\message\UserNotFoundException.class
